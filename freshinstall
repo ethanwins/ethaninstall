@@ -25,3 +25,7 @@ flatpak install sober
 clear
 
 figlet ethaninstall is done! | lolcat -a -s 200
+
+sleep 5
+
+exit
