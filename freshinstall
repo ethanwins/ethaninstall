@@ -24,4 +24,4 @@ flatpak install sober
 
 clear
 
-echo "ALL DONE! ENJOY ARCH LINUX!" 
+figlet ethaninstaller! | lolcat -a -s 200
