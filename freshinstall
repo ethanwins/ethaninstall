@@ -1,0 +1,27 @@
+#!/bin/sh
+
+clear
+
+echo  "ethaninstall's git should download in 3 seconds"
+
+sleep 3
+
+sudo pacman -S git go
+
+cd 
+
+git clone https://aur.archlinux.org/yay
+cd yay
+makepkg -si
+
+yay -S ghostty zsh fastfetch discord cmatrix-git asciiquarium-transparent-git cava spotify flatpak btop vim zen-browser-bin pipes.sh tty-clock vscodium-bin libreoffice-fresh ttf-jetbrains-mono-nerd mpv eog cheese reflector zsh-autosuggestions zsh-syntax-highlighting ttf-jetbrains-mono ttf-ms-fonts obsidian
+
+sleep 1
+
+clear
+
+flatpak install sober
+
+clear
+
+echo "ALL DONE! ENJOY ARCH LINUX!" 
