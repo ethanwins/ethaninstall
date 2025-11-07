@@ -24,4 +24,4 @@ flatpak install sober
 
 clear
 
-figlet ethaninstaller! | lolcat -a -s 200
+figlet ethaninstall is done! | lolcat -a -s 200
