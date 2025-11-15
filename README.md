@@ -1,3 +1,3 @@
-#ethaninstall
-
+# ethaninstall
+![image] ethaninstall/ethaninstall.png 
 a tool to use when install **arch linux** for ethan, you clone this repo and then cd and run it.
