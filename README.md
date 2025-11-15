@@ -11,3 +11,4 @@ supported systems:
 - artix linux
 - cachyos
 - omarchy
+- manjaro
