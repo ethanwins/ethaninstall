@@ -1,7 +1,11 @@
 #!/bin/sh
 clear
 echo  "ethaninstall's git should download in 3 seconds"
-sleep 3
+sleep 1
+echo "2"
+sleep 1
+echo "1"
+sleep 1
 sudo pacman -S git go
 cd 
 git clone https://aur.archlinux.org/yay
