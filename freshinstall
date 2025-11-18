@@ -6,6 +6,7 @@ echo "2"
 sleep 1
 echo "1"
 sleep 1
+clear
 sudo pacman -S git go
 cd 
 git clone https://aur.archlinux.org/yay
