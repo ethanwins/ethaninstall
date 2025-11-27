@@ -16,6 +16,6 @@ yay -S figlet lolcat unzip wget ghostty zsh fastfetch discord cmatrix-git asciiq
 clear
 flatpak install sober
 clear
-figlet -c ethaninstall is done! | lolcat -a -s 175 -p 1
-sleep 3
+figlet -c ethaninstall is done! | lolcat -a -s 90 -p 1
+sleep 5
 exit
