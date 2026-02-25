@@ -12,7 +12,7 @@ cd
 git clone https://aur.archlinux.org/yay
 cd yay
 makepkg -si
-yay -S rnote win11-clipboard-history-bin figlet lolcat unzip wget kitty zsh fastfetch discord cmatrix-git asciiquarium-transparent-git cava flatpak btop vim firefox pipes.sh tty-clock vscodium-bin libreoffice-fresh pokeshell ttf-jetbrains-mono-nerd eog reflector zsh-autosuggestions zsh-syntax-highlighting obsidian gnome-characters obsidian obs-studio nwg-look ttf-ms-fonts otf-san-francisco audacity kdenlive
+yay -S rnote win11-clipboard-history-bin figlet lolcat unzip wget kitty zsh fastfetch discord cmatrix-git asciiquarium-transparent-git cava flatpak btop vim firefox pipes.sh tty-clock vscodium-bin libreoffice-fresh pokeshell ttf-jetbrains-mono-nerd eog reflector zsh-autosuggestions zsh-syntax-highlighting obsidian gnome-characters obsidian obs-studio nwg-look ttf-ms-fonts otf-san-francisco audacity kdenlive mousam
 clear
 flatpak install sober
 clear
